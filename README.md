@@ -14,3 +14,4 @@ To sign the list, follow these steps:
 
 Add your signature below
 -  Igor Kowalczyk, [@igorkowalczyk](https://github.com/igorkowalczyk) (Front-End Developer)
+-  Marcin Kowalicki, [@MarcinK50](https://github.com/MarcinK50) (Front-end Developer)
